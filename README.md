@@ -1,5 +1,6 @@
 # Retail Forecasting AI
 
+![Alt Text](https://github.com/heemalsic/retail-forecasting-ai/blob/main/images/dashboard.png)
 End-to-end retail demand forecasting project with:
 - data preprocessing + feature engineering,
 - XGBoost model training,
