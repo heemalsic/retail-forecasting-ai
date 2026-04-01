@@ -96,6 +96,8 @@ pip install pandas scikit-learn xgboost joblib fastapi uvicorn streamlit google-
 
 If you want the **Generate Insights** button in the dashboard to work, set `GEMINI_API_KEY` in your terminal session before running the app.
 
+![Alt Text](https://github.com/heemalsic/retail-forecasting-ai/blob/main/images/ai_insights.png)
+
 ### Windows PowerShell (current session)
 ```powershell
 $env:GEMINI_API_KEY="your_api_key_here"
